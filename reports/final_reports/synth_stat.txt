@@ -1,0 +1,82 @@
+
+20. Printing statistics.
+
+=== main ===
+
+        +----------Local Count, excluding submodules.
+        |        +-Local Area, excluding submodules.
+        |        | 
+    21500        - wires
+    21748        - wire bits
+     3446        - public wires
+     3694        - public wire bits
+       10        - ports
+      258        - port bits
+    17984 3.43E+04 cells
+      252  268.128   AND2_X1
+        1     1.33   AND2_X2
+       13    17.29   AND3_X1
+        1    1.596   AND3_X2
+        3    4.788   AND4_X1
+        1    1.862   AND4_X2
+        2    4.788   AOI211_X2
+      230   244.72   AOI21_X1
+        3    5.586   AOI21_X2
+        1    3.458   AOI21_X4
+        7   11.172   AOI221_X1
+        6   17.556   AOI221_X2
+        1    3.458   AOI221_X4
+        1    3.724   AOI222_X2
+      100      133   AOI22_X1
+        2    4.788   AOI22_X2
+     1494 1.19E+03   BUF_X1
+       15    15.96   BUF_X2
+        9   16.758   BUF_X4
+        2    6.916   BUF_X8
+      387  308.826   CLKBUF_X1
+        2    2.128   CLKBUF_X2
+     3678 1.66E+04   DFF_X1
+        3     7.98   DLL_X1
+        3   12.768   FA_X1
+       81   215.46   HA_X1
+      223  118.636   INV_X1
+        5     3.99   INV_X2
+        1     1.33   INV_X4
+        1    2.394   INV_X8
+        1    0.532   LOGIC0_X1
+        1    0.532   LOGIC1_X1
+     3997 7.44E+03   MUX2_X1
+        1    2.394   MUX2_X2
+     1357 1.08E+03   NAND2_X1
+        2     2.66   NAND2_X2
+        2    4.788   NAND2_X4
+     2498 2.66E+03   NAND3_X1
+        2    3.724   NAND3_X2
+       10     13.3   NAND4_X1
+      222  177.156   NOR2_X1
+        5     6.65   NOR2_X2
+        1    2.394   NOR2_X4
+       49   52.136   NOR3_X1
+        3    5.586   NOR3_X2
+        1    3.724   NOR3_X4
+       13    17.29   NOR4_X1
+        3    7.182   NOR4_X2
+     3160  3362.24   OAI21_X1
+        3    5.586   OAI21_X2
+       12   19.152   OAI221_X1
+        1    3.458   OAI221_X4
+        4     5.32   OAI22_X1
+        2    3.724   OAI33_X1
+       17   18.088   OR2_X1
+        1     1.33   OR2_X2
+        3    7.182   OR2_X4
+        8    10.64   OR3_X1
+        3    4.788   OR3_X2
+        1    2.926   OR3_X4
+        3    4.788   OR4_X1
+       55    87.78   XNOR2_X1
+       15    23.94   XOR2_X1
+
+   Chip area for module '\main': 34308.680000
+     of which used for sequential elements: 16631.916000 (48.48%)
+
